@@ -3,7 +3,7 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-09T12:22:01.059152217Z"
+    created: "2023-05-09T12:30:21.225992729Z"
     description: A Helm chart for Kubernetes
     digest: 5729e5c24ddfb471222734aa0cfe08e7355c87150242c3fdb9b76081a6eb787b
     name: app1
@@ -14,7 +14,7 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-09T12:22:01.059583035Z"
+    created: "2023-05-09T12:30:21.226767812Z"
     description: A Helm chart for Kubernetes
     digest: 0012b3ec9348ba748bacdf37f2ecb211562843a78e845a3cc8e3feaf9ebbd8cf
     name: app2
@@ -25,12 +25,12 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-09T12:22:01.058551492Z"
+    created: "2023-05-09T12:30:21.225235373Z"
     description: A Helm chart for Kubernetes
-    digest: f8b4ef5a2a1ad4ec98e925c36b61b7c072b2f0f30d6bccb2b0cc4dec198b0f28
+    digest: ffe5f156ee5d6f3c43fb0a276c8287f03e38d6bb57378e797fbab1780cf2e1a2
     name: my-app
     type: application
     urls:
     - https://github.com/Proptiger978/my-helm-charts/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-09T12:22:01.054842731Z"
+generated: "2023-05-09T12:30:21.220991424Z"
